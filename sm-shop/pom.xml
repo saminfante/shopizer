@@ -25,7 +25,7 @@
 			app version -->
 		<spring-social-facebook.version>3.0.0.M3</spring-social-facebook.version>
 		<guava.version>19.0</guava.version>
-		<swagger.version>2.7.0</swagger.version>
+		<swagger.version>2.10.5</swagger.version>
 		<coverage.lines>.04</coverage.lines>
         <coverage.branches>.01</coverage.branches>
 	</properties>
