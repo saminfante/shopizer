@@ -183,7 +183,7 @@
 		<dependency>
 			<groupId>com.stripe</groupId>
 			<artifactId>stripe-java</artifactId>
-			<version>1.33.0</version>
+			<version>20.42.0</version>
 		</dependency>
 
 		<!-- Braintree -->
