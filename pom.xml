@@ -39,7 +39,7 @@
 		<infinispan.version>6.0.2.Final</infinispan.version>
 		<mysql-jdbc-version>8.0.15</mysql-jdbc-version>
 		<simple-json-version>1.1.1</simple-json-version>
-		<org.elasticsearch-version>5.6.12</org.elasticsearch-version>
+		<org.elasticsearch-version>6.8.13</org.elasticsearch-version>
 		<io.searchbox.jest-version>5.3.3</io.searchbox.jest-version>
 		<jackson-version>2.9.8</jackson-version>
 		<coverage.lines>.30</coverage.lines>
